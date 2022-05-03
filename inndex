@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+
+    <title>Marvelfan</title>
+</head>
+<body>
+  <table></table>
+  
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZsjjeMucYt3Dp7gESKHd50cl4_SjHniORg&usqp=CAU" alt="Простите, картинка недоступен"/>
+  <hr>
+    <h1>Դավիթ Դիլանյան</h1>
+    <p><em>Ես դառնալու եմ<strong> ԾՐԱԳՐԱՎՈՐՈՂ</strong></em></p>
+    <p>Ես սիրում եմ <strong>Марвел</strong></p>
+    <hr>
+
+<h1>Հետաքրքիր կայքեր</h1>
+<ul type="pyramida">
+    <li><a href=1."https://hy.wikipedia.org/wiki/%D4%B5%D5%B2%D5%AB%D5%B7%D5%A5_%D5%89%D5%A1%D6%80%D5%A5%D5%B6%D6%81" target="_blank"> Google (այստեղ դու կգտնես տեղեկություն հայ մեծանուն գրող Եղիշե Չարենցի մասին)</a> </li>
+    <li><a href=2."https://www.youtube.com/watch?v=DOEtVdkKwcU&t=1405s" target="_blank">YouTube (Владилен Минин)</a></li>
+</ul>
+  <hr
+<h1>Իմ սիրելի ֆիլմերը</h1>
+<ol >
+    <strong><li>Վրիժառուներ.Անվերջության պատերազմը</li>
+      <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFLUGyzDn5GKwFfbBkWrtYG2Qz5_0pZitqw&usqp=CAU>
+      <hr>
+    <li>Վրիժառուներ.Վերջնախաղ</li>
+      <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4mW8v2SV8sCqbwv7ol7mpWm-9iPGiaLGbg&usqp=CAU>
+      <hr>
+    <li>Սարդ-մարդ.Տունդարձի ճամփա չկա</li>
+      <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMTVJI2yjwF0mAU7cwun6WYfHuH-EpjZFpCA&usqp=CAU>
+      <hr>
+      <li>Վրիժառուներ.Ալտրոնի դարաշրջանը</li></strong>
+  <img src=https://i.pinimg.com/736x/17/9c/c0/179cc05bd134b03bc199c5d3d9ee560a--fan-poster-avengers-.jpg>
+  
+  <hr>
+
+</ol>
+
+<strong><h1>Իմ չսիրելի ֆիլմերը</h1></strong>
+<table border="4">
+    <tr>
+        <th>Առաջին</th>
+        <th>Երկրորդ</th>
+        <th>Երրորդ</th>
+    </tr>
+    <tr>
+        <td>Մրջյուն-մարդ</td>
+        <td>Մրջյուն-մարդ 2</td>
+        <td>Սև այրի</td>
+    </tr>
+    </table>
+<hr>
+<h1>Եվ վերջում, դիտի՛ր <Սարդ-մարդ.Տունդարձի ճամփա չկա> ֆիլմը!</h1>
+<a href="https://kinogo.zone/films/8776-chelovek-pauk-net-puti-domoy-2021-hd-tvdolby4-v8.html">Սարդ-մարդ. Տունդարձի ճամփա չկա(kinogo.zone)</a>
+   <hr>
+  <h1>Կապ իմ հետ</h1>
+  <form action="/">
+    <label for="name">Ձեր անունը.</label>
+    <input type="text" id="name" placeholder="Այստե՛ղ գրեք ձեր անունը">
+    <br>
+    <label for="email"> Ձեր մեյլը.</label>
+    <input type="email" id="email" placeholder="Այստե՛ղ գրեք ձեր մեյլը">
+    <br>
+    <label for="text">Թողե՛ք այստեղ նամակ!</label>
+    <br>
+       <textarea id="text" rows="5"></textarea>
+    <br>
+    <input type="sumbit" value="Գրանցվե՛լ">
+    <br>
+    <input type="password">
+      </form>
+  </body>
+</html>
